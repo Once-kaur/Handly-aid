@@ -1,0 +1,42 @@
+body{
+    color:black;
+    align-items: center;
+    
+    background-image: url('backg.jpeg');
+    background-repeat: no-repeat;
+    
+}
+.categories{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 2em;
+    font-size: 0.8cm;
+    
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 1.2cm;
+
+}
+.treat{
+    font-size: 1cm;
+}
+.treaty{
+    font-size: 1cm;
+    list-style-image: url('bellchild.jpeg');
+}
+.table{
+    border: 1px black solid;
+}
+th{
+    border: 1px black solid;
+    width: 48%;
+}
+td{
+    border: 1px black solid;
+    width: 48%;
+}
+form{
+    font-size: 1cm;
+}
